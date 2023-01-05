@@ -1,3 +1,5 @@
+Metatron Version 2.0
+
 Description:
 
 Metatron is a theme for the cinnamon desktop environment, including GTK 2 & GTK 3 themes.
