@@ -10,7 +10,7 @@ Tested and developed in Linux Mint 21.1 "Vera"
 
 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧:
 
-To use the theme on Linux mint please put all the files in /home/username/.themes or /usr/share/themes.
+To use the theme on Linux Mint please put all the files in /home/username/.themes or /usr/share/themes.
 
 𝐌𝐲 𝐢𝐜𝐨𝐧 𝐩𝐚𝐜𝐤 𝐫𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬:
 
