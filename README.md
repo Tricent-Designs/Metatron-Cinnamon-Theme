@@ -25,3 +25,7 @@ Metatron-Cyan:
 Metatron-Purple:
 1. Papirus-icon-theme-magenta-folders
 2. Papirus-icon-theme-violet-folders
+
+Papirus: 
+https://www.cinnamon-look.org/p/1166289/
+https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/
