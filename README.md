@@ -1,8 +1,10 @@
-Metatron version 2.1
+Metatron version 2.2.2
 
 Description:
 
 Metatron is a free and open source theme for the cinnamon desktop environment, including GTK 2 & GTK 3 themes.
+
+installation:
 
 To use the theme on Linux mint please put all the files in /home/username/.themes or /usr/share/themes.
 
