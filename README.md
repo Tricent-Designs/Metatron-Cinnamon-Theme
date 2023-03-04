@@ -27,5 +27,4 @@ Metatron-Purple:
 2. Papirus-icon-theme-violet-folders
 
 Papirus: 
-https://www.cinnamon-look.org/p/1166289/
-https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/
+https://www.cinnamon-look.org/p/1166289/ or https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/
