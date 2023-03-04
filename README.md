@@ -20,7 +20,8 @@ Metatron-Grey:
 2. Papirus-icon-theme-grey-folders
 
 Metatron-Cyan:
-1. Papirus-icon-theme-cyan-folders
+1. Papirus-icon-theme-breeze-folders
+2. Papirus-icon-theme-cyan-folders
 
 Metatron-Purple:
 1. Papirus-icon-theme-magenta-folders
