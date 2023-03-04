@@ -1,4 +1,4 @@
---- Metatron version 2.2.2 ---
+Metatron version 2.2.2
 
 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧:
 
