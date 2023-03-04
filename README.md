@@ -13,7 +13,7 @@ Tested and developed in Linux Mint 21.1 "Vera"
 To use the theme on Linux Mint, place all files in /home/username/.themes or /usr/share/themes.
 
 
-𝐌𝐲 𝐢𝐜𝐨𝐧 𝐭𝐡𝐞𝐦𝐞𝐬 𝐫𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬:
+𝐌𝐲 𝐈𝐜𝐨𝐧 𝐓𝐡𝐞𝐦𝐞 𝐑𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬:
 
 Metatron-Grey:
 1. Papirus-icon-theme-white-folders
