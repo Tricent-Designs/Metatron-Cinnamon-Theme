@@ -6,7 +6,7 @@ Metatron is a free and open source theme for the cinnamon desktop environment, i
 
 𝐂𝐨𝐦𝐩𝐚𝐭𝐢𝐛𝐢𝐥𝐢𝐭𝐲:
 
-Tested and developed in Linux Mint 21
+Tested and developed in Linux Mint 21.1 "Vera"
 
 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧:
 
