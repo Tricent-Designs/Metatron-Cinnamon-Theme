@@ -17,3 +17,8 @@ Are Papirus with white folders for Metatron-Grey, Papirus with Breeze folders fo
 
 Papirus: 
 https://www.pling.com/p/1166289 or https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/
+
+
+Other information:
+
+This theme is based on Mint-Y-Dark and Zorin-Desktop-Themes.
