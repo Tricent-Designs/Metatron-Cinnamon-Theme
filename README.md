@@ -18,7 +18,7 @@ This theme is based on Mint-Y-Dark and Zorin-Desktop-Themes.
 
 𝗠𝘆 𝗜𝗰𝗼𝗻 𝗧𝗵𝗲𝗺𝗲 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀:
 
-Are Papirus with white folders for Metatron-Grey, Papirus with Breeze folders for Metatron-Cyan, and Papirus with magenta folders for Metatron-Purple.
+Are Papirus with white folders for Metatron-Grey, Papirus with Breeze folders for Metatron-Cyan and Papirus with magenta folders for Metatron-Purple.
 
 Papirus: 
 https://www.pling.com/p/1166289 or https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/
